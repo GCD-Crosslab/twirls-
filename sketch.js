@@ -1,5 +1,5 @@
 function setup() {
- canvas = createCanvas( 500, 500 );
+ canvas = createCanvas(windowWidth, windowHeight);
  
 
   // Initial position in the centre of the screen
